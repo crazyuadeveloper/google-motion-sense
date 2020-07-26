@@ -3,7 +3,7 @@
 ![Magisk](https://img.shields.io/badge/Magisk-20+-brightgreen?logo=magisk)
 
 ## Description
-This module enables Google Motion Sense on Pixel 4/4 XL
+This module enables Google Motion Sense on Pixel 4/4 XL in any country
 
 ## Enable with Magisk (recommended)
 
