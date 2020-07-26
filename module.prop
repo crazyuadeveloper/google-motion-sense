@@ -1,0 +1,7 @@
+id=pk_googlemotionsense
+name=Google Motion Sense
+version=v1.0.0
+versionCode=1
+author=crazyuadeveloper
+description=Enable Google Motion Sense (on Pixel 4/4 XL)
+minMagisk=17000
